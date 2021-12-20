@@ -1,0 +1,4 @@
+-   :godmode: Hi, I'm Nikita
+-   :computer: I am working as **Head of DevOps**
+-   :monocle_face: Currently interested in AI and ML
+-   :heart: Open Source Software
